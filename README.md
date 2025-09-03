@@ -45,13 +45,25 @@ This project includes:
 
 ## Project Structure
 
+```text
 FOSSEE_Task2/
 │
-├── README.md                                 # Project description & instructions
-├── AI_Debugging_Prompt.md                    # Final prompt (Markdown)
-├── AI_Debugging_Prompt.json                  # Final prompt (JSON)
-└── AI_Debugging_Assistant_WhitePaper.pdf    # 10-page research paper with rationale
+├── AI_Debugging_Prompt.md       # Human-readable AI prompt
+├── AI_Debugging_Prompt.json     # Machine-readable AI prompt
+├── examples/                    # Skill-level examples demonstrating AI guidance
+│   ├── beginner/
+│   │   ├── example1_buggy.py
+│   │   ├── example1_ai_hints.md
+│   ├── intermediate/
+│   │   ├── example1_buggy.py
+│   │   └── example1_ai_hints.md
+│   └── advanced/
+│       ├── example1_buggy.py
+│       └── example1_ai_hints.md
+├── WhitePaper.pdf  # 10-page detailed rationale
+└── LICENSE                      # MIT License
 
+```
 ## Prompt Details
 
 ### Role of AI
