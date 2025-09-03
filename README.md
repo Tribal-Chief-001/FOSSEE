@@ -1,6 +1,7 @@
 # 🚀 FOSSEE Python Screening Task 2: AI Debugging Assistant Prompt
 
-![FOSSEE](https://fossee.in/images/logo.png)  
+<img width="600" height="230" alt="image" src="https://github.com/user-attachments/assets/d5e2f8ba-3cb0-4ed9-9801-66d0fb4f8bd5" />
+  
 
 **Author:** Nikhil & SOTA AI Commentary  
 **Internship:** FOSSEE Semester Internship — Autumn 2025  
